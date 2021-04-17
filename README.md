@@ -29,7 +29,29 @@ the shape of the data changed from (4957, 12) to  (3010, 14)<br>
 ![after cleaning](https://github.com/Marwen-93/used-car-price-Tunisia-prediction/blob/main/data_leaned.png)<br>
 
 
-![fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
+![Fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
 
 
-![fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
+![Transmission](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/transmission.png)<br>
+
+
+![Type seller](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/stller.png)<br>
+
+
+![corrolation](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/correl.png)<br>
+
+
+
+
+
+![location](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/locatin_vente.png)<br>
+
+
+![cars name](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/nom_voiture.png)<br>
+
+
+![year ](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/mise_vente.png)<br>
+
+
+
+
