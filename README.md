@@ -27,3 +27,9 @@ the shape of the data changed from (4957, 12) to  (3010, 14)<br>
 **after cleaning<br>
 
 ![after cleaning](https://github.com/Marwen-93/used-car-price-Tunisia-prediction/blob/main/data_leaned.png)<br>
+
+
+![fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
+
+
+![fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
