@@ -34,9 +34,6 @@ the shape of the data changed from (4957, 12) to  (3010, 14)<br>
 ![Transmission](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/transmission.png)<br>
 
 
-![Type seller](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/stller.png)<br>
-
-
 ![corrolation](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/correl.png)<br>
 
 
