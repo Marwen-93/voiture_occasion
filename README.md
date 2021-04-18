@@ -28,10 +28,9 @@ the shape of the data changed from (4957, 12) to  (3010, 14)<br>
 
 ![after cleaning](https://github.com/Marwen-93/used-car-price-Tunisia-prediction/blob/main/data_leaned.png)<br>
 
+**the two graphs show the consistency data as I know the most used cars in Tunisia are cars with essence fuel and manual gear**<br>
 
 ![Fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
-
-
 ![Transmission](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/transmission.png)<br>
 
 
