@@ -33,9 +33,9 @@ the two graphs show the consistency data as I know the most used cars in Tunisia
 ![Fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
 ![Transmission](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/transmission.png)<br>
 
-***In correlation heatmap, show a high correlation between age and Km, price and cv this very logic and proof the consistency data what is interesting <br>
-is the high  correlation between price and length of description, people attend to write more words in the description in a way <br>
-to convince the buyer to buy the car ***
+***In correlation heatmap, show a high correlation between age and Km, price and cv this very logic and proof the consistency data what is interesting**** <br>
+***is the high  correlation between price and length of description, people attend to write more words in the description in a way*** <br>
+***to convince the buyer to buy the car***<br>
 
 ![corrolation](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/correl.png)<br>
 
