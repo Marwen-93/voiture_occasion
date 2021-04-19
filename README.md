@@ -40,7 +40,7 @@ the two graphs show the consistency data as I know the most used cars in Tunisia
 ![corrolation](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/correl.png)<br>
 
 
-
+**the next 3 graphs show the distribution of the  cars in Tunisia in terms of location, the cars year date of release, car name**
 
 
 ![location](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/locatin_vente.png)<br>
