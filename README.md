@@ -22,7 +22,7 @@ the shape of the data changed from (4957, 12) to  (3010, 14)<br>
 
 **before cleaning **<br>
 
-![befor cleaning](https://github.com/Marwen-93/used-car-price-Tunisia-prediction/blob/main/voiture.png)<br>
+![befor cleaning](https://github.com/Marwen-93/voiture_occasion/blob/master/voiture.png)<br>
 
 **after cleaning<br>
 
