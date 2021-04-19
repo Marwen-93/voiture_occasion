@@ -28,12 +28,14 @@ the shape of the data changed from (4957, 12) to  (3010, 14)<br>
 
 ![after cleaning](https://github.com/Marwen-93/voiture_occasion/blob/master/data_leaned.png)<br>
 
-**the two graphs show the consistency data as I know the most used cars in Tunisia are cars with essence fuel and manual gear**<br>
+the two graphs show the consistency data as I know the most used cars in Tunisia are cars with essence fuel and manual gear<br>
 
 ![Fuel](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/fuel.png)<br>
 ![Transmission](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/transmission.png)<br>
 
-***In correlation heatmap, show a high correlation between age and Km, price and cv this very logic and proof the consistency data what is interesting is the high  correlation between price and length of description, people attend to write more words in the description in a way to convince the buyer to buy the car ***
+***In correlation heatmap, show a high correlation between age and Km, price and cv this very logic and proof the consistency data what is interesting <br>
+is the high  correlation between price and length of description, people attend to write more words in the description in a way <br>
+to convince the buyer to buy the car ***
 
 ![corrolation](https://github.com/Marwen-93/voiture_occasion/blob/master/photo/correl.png)<br>
 
